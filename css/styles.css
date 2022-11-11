@@ -19,8 +19,7 @@ ul {
 /* logo */
 .logo {
     font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 700;
+    font-style: normal;   
     font-size: 26px;
     line-height: 1.19;
     letter-spacing: 0.03em;
@@ -72,6 +71,8 @@ ul {
     background-color: #2F303A;
 }
 .pledge {
+    font-family: 'Roboto';
+    font-style: normal;
     font-weight: 700;
     font-size: 16px;
     line-height: 1.87;
@@ -87,7 +88,7 @@ ul {
 }
 /* h2 */
 .title-text {
-    font-weight: 700;
+    
     font-size: 36px;
     line-height: 1.17;
     text-align: center;
@@ -96,14 +97,14 @@ ul {
 }
 /* advances */
 .advances-title {
-    font-weight: 700;
+    
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.03em;
     
 }
 .advances-text {
-    font-weight: 400;
+    
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
@@ -118,7 +119,6 @@ ul {
     
 }
 .team .position {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.19;
     letter-spacing: 0.03em;
@@ -129,6 +129,8 @@ ul {
 /* !!!!!!!!!main-portfolio!!!!!!!!! */
 /* button-filter */
 .button-filter-styles {
+    font-family: 'Roboto';
+    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.62;
@@ -143,13 +145,11 @@ ul {
 }
 /* portfolio-item */
 .title-item {
-    font-weight: 700;
     font-size: 18px;
     line-height: 2;
     letter-spacing: 0.06em;
 }
 .text-category {
-    font-weight: 400;
      font-size: 16px;
     line-height: 1.87;
     letter-spacing: 0.03em;
@@ -166,7 +166,6 @@ ul {
 .logo-footer {
     font-family: 'Raleway';
     font-style: normal;
-    font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
     letter-spacing: 0.03em;
@@ -175,15 +174,17 @@ ul {
 .logo-footer-color {
     color: var(--logo-text-color);
 }
+.addres-page {
+    font-style: normal;
+}
 .address {
-    font-weight: 400;
+    
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
     color: var(--hero-text-color);
 }
 .connection-footer {
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
